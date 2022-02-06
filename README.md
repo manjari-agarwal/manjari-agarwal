@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new techs
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Live Projects
-- 📫 How to reach me aggarwal.manjari@gail.com
+- 📫 How to reach me aggarwal.manjari@gmail.com
 
 <!---
 manjari-agarwal/manjari-agarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
